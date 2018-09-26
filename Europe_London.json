@@ -1,0 +1,559 @@
+{
+	"id": "Europe/London", 
+	"everHadRules": true, 
+	"offsets": [
+		{
+			"minutesOffset": 1, 
+			"secondOffset": 15, 
+			"rules": "<none>", 
+			"untilYear": 1847, 
+			"untilMonth": 12, 
+			"untilDay": 1, 
+			"untilHour": 0, 
+			"untilMinute": 0, 
+			"untilSecond": 0, 
+			"untilTimeType": "s", 
+			"timezone-abbreviation": "LMT"
+		},
+		{
+			"minutesOffset": 0, 
+			"secondOffset": 0, 
+			"rules": [
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1916,
+						"toYear": 1916,
+						"inMonth": "May",
+						"onDay": 21
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1916,
+						"toYear": 1916,
+						"inMonth": "Oct",
+						"onDay": 1
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1917,
+						"toYear": 1917,
+						"inMonth": "Apr",
+						"onDay": 8
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1917,
+						"toYear": 1917,
+						"inMonth": "Sep",
+						"onDay": 17
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1918,
+						"toYear": 1918,
+						"inMonth": "Mar",
+						"onDay": 24
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1918,
+						"toYear": 1918,
+						"inMonth": "Sep",
+						"onDay": 30
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1919,
+						"toYear": 1919,
+						"inMonth": "Mar",
+						"onDay": 30
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1919,
+						"toYear": 1919,
+						"inMonth": "Sep",
+						"onDay": 29
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1920,
+						"toYear": 1920,
+						"inMonth": "Mar",
+						"onDay": 28
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1920,
+						"toYear": 1920,
+						"inMonth": "Oct",
+						"onDay": 25
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1921,
+						"toYear": 1921,
+						"inMonth": "Apr",
+						"onDay": 3
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1921,
+						"toYear": 1921,
+						"inMonth": "Oct",
+						"onDay": 3
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1922,
+						"toYear": 1922,
+						"inMonth": "Mar",
+						"onDay": 26
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1922,
+						"toYear": 1922,
+						"inMonth": "Oct",
+						"onDay": 8
+					}
+				},
+				{
+					"start": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1923,
+							"toYear": 1923,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1924,
+							"toYear": 1924,
+							"inMonth": "Apr"
+						}
+					],
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1923,
+						"toYear": 1924,
+						"inMonth": "Sep"
+					}
+				},
+				{
+					"start": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1925,
+							"toYear": 1926,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1927,
+							"toYear": 1927,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1928,
+							"toYear": 1929,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1930,
+							"toYear": 1930,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1931,
+							"toYear": 1932,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1933,
+							"toYear": 1933,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1934,
+							"toYear": 1934,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1935,
+							"toYear": 1935,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1936,
+							"toYear": 1937,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1938,
+							"toYear": 1938,
+							"inMonth": "Apr"
+						}
+					],
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1925,
+						"toYear": 1938,
+						"inMonth": "Oct"
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1939,
+						"toYear": 1939,
+						"inMonth": "Apr"
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1939,
+						"toYear": 1939,
+						"inMonth": "Nov"
+					}
+				},
+				{
+					"name": "GB-Eire" , 
+					"fromYear": 1940,  
+					"toYear": 1940,  
+					"inMonth": 2 
+				},
+				{
+					"start": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1941,
+							"toYear": 1941,
+							"inMonth": "May"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1942,
+							"toYear": 1944,
+							"inMonth": "Apr"
+						}
+					],
+					"end": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1941,
+							"toYear": 1943,
+							"inMonth": "Aug"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1944,
+							"toYear": 1944,
+							"inMonth": "Sep"
+						}
+					]
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1945,
+						"toYear": 1945,
+						"inMonth": "Apr"
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1945,
+						"toYear": 1945,
+						"inMonth": "Jul"
+					}
+				},
+				{
+					"name": "GB-Eire",  
+					"fromYear": 1945,  
+					"toYear": 1946,  
+					"inMonth": 10,   
+				},
+				{
+					"name": "GB-Eire",  
+					"fromYear": 1946,  
+					"toYear": 1946,  
+					"inMonth": 4 
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1947,
+						"toYear": 1947,
+						"inMonth": "Mar",
+						"onDay": 16
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1947,
+						"toYear": 1947,
+						"inMonth": "Apr",
+						"onDay": 13
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1947,
+						"toYear": 1947,
+						"inMonth": "Aug",
+						"onDay": 10
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1947,
+						"toYear": 1947,
+						"inMonth": "Nov",
+						"onDay": 2
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1948,
+						"toYear": 1948,
+						"inMonth": "Mar",
+						"onDay": 14
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1948,
+						"toYear": 1948,
+						"inMonth": "Oct",
+						"onDay": 31, 
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1949,
+						"toYear": 1949,
+						"inMonth": "Apr",
+						"onDay": 3
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1949,
+						"toYear": 1949,
+						"inMonth": "Oct",
+						"onDay": 30
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1950,
+						"toYear": 1952,
+						"inMonth": "Apr"
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1950,
+						"toYear": 1952,
+						"inMonth": "Oct"
+					}
+				},
+				{
+					"start": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1953,
+							"toYear": 1953,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1954,
+							"toYear": 1954,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1955,
+							"toYear": 1956,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1957,
+							"toYear": 1957,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1958,
+							"toYear": 1959,
+							"inMonth": "Apr"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1960,
+							"toYear": 1960,
+							"inMonth": "Apr"
+						}
+					],
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1953,
+						"toYear": 1960,
+						"inMonth": "Oct"
+					}
+				},
+				{
+					"start": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1961,
+							"toYear": 1963,
+							"inMonth": "Mar"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1964,
+							"toYear": 1967,
+							"inMonth": "Mar"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1968,
+							"toYear": 1968,
+							"inMonth": "Feb",
+							"onDay": 18
+						}
+					],
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1961,
+						"toYear": 1968,
+						"inMonth": "Oct"
+					}
+				}
+			], 
+			"untilYear": 1968, 
+			"untilMonth": 10, 
+			"untilDay": 27, 
+			"untilHour": 0, 
+			"untilMinute": 0, 
+			"untilSecond": 0, 
+			"untilTimeType": "w", 
+			"timezone-abbreviation": "<unresolved>"
+		},
+		{
+			"minutesOffset": 60, 
+			"secondOffset": 0, 
+			"rules": "<none>", 
+			"untilYear": 1971, 
+			"untilMonth": 10, 
+			"untilDay": 31, 
+			"untilHour": 2, 
+			"untilMinute": 0, 
+			"untilSecond": 0, 
+			"untilTimeType": "u", 
+			"timezone-abbreviation": "BST"
+		},
+		{
+			"minutesOffset": 0, 
+			"secondOffset": 0, 
+			"rules": [
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1972,
+						"toYear": 1980,
+						"inMonth": "Mar"
+					},
+					"end": {
+						"name": "GB-Eire",
+						"fromYear": 1972,
+						"toYear": 1980,
+						"inMonth": "Oct"
+					}
+				},
+				{
+					"start": {
+						"name": "GB-Eire",
+						"fromYear": 1981,
+						"toYear": 1995,
+						"inMonth": "Mar"
+					},
+					"end": [
+						{
+							"name": "GB-Eire",
+							"fromYear": 1981,
+							"toYear": 1989,
+							"inMonth": "Oct"
+						}
+						,{
+							"name": "GB-Eire",
+							"fromYear": 1990,
+							"toYear": 1995,
+							"inMonth": "Oct"
+						}
+					]
+				}
+			], 
+			"untilYear": 1996, 
+			"untilMonth": 1, 
+			"untilDay": 1, 
+			"untilHour": 0, 
+			"untilMinute": 0, 
+			"untilSecond": 0, 
+			"untilTimeType": "w", 
+			"timezone-abbreviation": "<unresolved>"
+		},
+		{
+			"minutesOffset": 0, 
+			"secondOffset": 0, 
+			"rules": [
+				{
+					"name": "EU",  
+					"fromYear": 1981,  
+					"toYear": 32767,  
+					"inMonth": 3 
+				},
+				{
+					"name": "EU",  
+					"fromYear": 1996,  
+					"toYear": 32767,  
+					"inMonth": 10 
+				}, 
+			], 
+			"untilYear": 32767, 
+			"untilMonth": 12, 
+			"untilDay": 31, 
+			"untilHour": 23, 
+			"untilMinute": 59, 
+			"untilSecond": 59, 
+			"untilTimeType": "w", 
+			"timezone-abbreviation": "<unresolved>", 
+			x: true, 
+			1: 34.5.6, 
+			76: $$$, 
+			array: [{}, [], 1, 3, 4, 6, null, {}]
+		}
+	]
+}
